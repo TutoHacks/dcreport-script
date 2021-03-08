@@ -1,5 +1,5 @@
 # dcreport-script
-FiveM Discord Loglu Report Scripti
+FiveM Discord Discord Report Script
 
 https://discord.gg/JPCwcpH4ye
 
@@ -7,16 +7,18 @@ Sandra Holigan
 
 ! F Ξ T H I Y Ξ L I#1844
 
-Kurulum: 
+Tutorial: 
 
 
-1-s_report'u açın en üstdeki yere webhook girin reportların düşeceği kanalın  webhooku olması gerek
+1 - download the .zip and extract it
 
-2- 4. satıra report geldiğinde hangi role etiket gidicekse o rolün idsini girin
+2 - edit the s_report.lua with your Webhook and your Name ;)
 
-ve server.cfg'ye **start dcreport-script-main** yazın.
+2- write following in your server.cfg
 
-Fotoğraf: https://hizliresim.com/4a54G6
+**start dcreport-script-main**
+
+Example: https://hizliresim.com/4a54G6
 
 
 
