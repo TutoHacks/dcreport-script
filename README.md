@@ -19,6 +19,3 @@ Tutorial:
 **start dcreport-script-main**
 
 Example: https://hizliresim.com/4a54G6
-
-
-
